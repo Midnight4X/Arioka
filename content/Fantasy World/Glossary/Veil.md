@@ -1,0 +1,3 @@
+#location
+
+Eldritch horror place

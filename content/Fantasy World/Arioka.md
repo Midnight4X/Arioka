@@ -1,0 +1,203 @@
+#fantasy #location
+
+
+---
+
+**General Info:**
+- {[[Species]]}
+	- [[Human]] Species:-
+		- [[Human]] (Common) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'3" (160 cm) - Lifespan: 100yrs
+		- [[Dwarf]] (Common) -- Avg Height: - Male: 4'4" (132 cm) - Female: 4'2" (127 cm) - Lifespan: 150yrs
+		- [[Gnome]] (Common) -- Avg Height - Male:  3'4" (102 cm) - Female: 3'2" (96 cm) - Lifespan: 165yrs
+	- [[Demihuman]] Species:-
+		- [[Catfolk]] | [[Neko|Felistria]]: Cat (Common) -- Avg Height: - Male: 5'5" (165 cm) - Female: 5'2" (157 cm) - Lifespan: 115yrs
+		- [[Dogfolk]] | [[Dogfolk|Canisina]]: Dog (Common) -- Avg Height: - Male: 5'6" (168 cm) - Female: 5'3" (160 cm) - Lifespan: 95yrs
+		- [[Wolf-folk]] | [[Wolf-folk|Canisine]]: Wolf (Common) -- Avg Height: - Male: 6'0" (183 cm) - Female: 5'7" (170 cm) - Lifespan: 90yrs
+		- [[Bunnyfolk]] | [[Bunnyfolk|Oytolagius]]: Bunny (Common) -- Avg Height: - Male: 5'9" (175 cm) - Female: 5'5" (165 cm) - Lifespan: 125yrs
+		- [[Raccoonfolk]] | [[Raccoonfolk|Procyon-lotorna]]: Racoon (Common) -- Avg Height: - Male: 5'4" (163 cm) - Female: 5'0" (152 cm) - Lifespan: 100yrs
+		- [[Mousefolk]] | [[Mousefolk|Musculus]]: Mice (Common) -- Avg Height: - Male: 4'4" (132 cm) - Female: 4'2" (127 cm) - Lifespan: 150yrs
+		- [[Sheepfolk]] | [[Sheepfolk|Ovisal]]: Sheep (Common) -- Avg Height: - Male: 5'0" (152 cm) - Female: 4'8" (142 cm) - Lifespan: 105yrs
+		- [[Goatfolk]] | [[Goatfolk|Capratis]]: Goat (Common) -- Avg Height: - Male: 5'2" (157 cm) - Female: 5'0" (152 cm) - Lifespan: 105yrs
+		- [[Cowfolk]] | [[Cowfolk|Taurus]]: Cow (Common) -- Avg Height: - Male: 6'0" (183 cm) - Female: 5'7" (170 cm) - Lifespan: 120yrs
+		- [[Kitsune]] | [[Kitsune|Vulpestro]]: Fox (Common) -- Avg Height: - Female: 5'4" (163 cm) - Lifespan: 1250yrs
+		- [[Centaur]] | [[Centaur|Equisfera]]: Horse (Common) -- Avg Height: - Male: 7'4" (224 cm) - Female: 7'2" (218 cm) - Lifespan: 180yrs
+	- [[Elyrian]] Species-
+		- [[Elves]]
+			- [[High Elves]] (Elyrian, Common) -- Avg Height: - Male: 5'8" (173 cm) - Female: 5'4" (163 cm) - Lifespan: 1200yrs
+			- [[Low Elves]] (Elyrian, Common) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'3" (160 cm) - Lifespan: 500yrs
+			- [[Dark Elves]] (Elyrian, Common) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'3" (160 cm) - Lifespan: 500yrs
+			- [[Wood Elves]] (Elyrian, Common, Beastrian) -- Avg Height: - Male: 5'5" (165 cm) - Female: 5'2" (157 cm) - Lifespan: 850yrs
+		- [[Pixie]] (Elyrian, Common) -- Avg Height: - Male: 6" (15 cm) - Female: 6" (15 cm) - Lifespan: 350yrs
+		- [[Fairy]] (Elyrian) -- Avg Height: - Male: 10" (25 cm) - Female: 10" (25 cm) - Lifespan: 650yrs
+		- [[Dryads]] (Elyrian, Beastrian, Common) -- Avg Height: - Female: 5'6" (168 cm) - Lifespan: 5000yrs
+		- [[Petalfae]] (Elyrian) -- Avg Height: - Female: 5'4" (163 cm) - Lifespan: 750yrs
+		- [[Nymph]] (Elyrian) -- Avg Height: - Female: 5'5" (165 cm) - Lifespan: Unknown
+	- [[Monsterkin]] Species:-
+		- [[Goblina]] (Gobish, Common) -- Avg Height: - Male: 4'5" (135 cm) - Female: 4'3" (130 cm) - Lifespan: 350yrs
+			- [[Forest Goblina]]
+			- [[Desert Goblina]]
+			- [[Mountain Goblina]]
+		- [[Vampire]]
+			- [[Silvers]] (Common, Demon) -- Avg Height: - Male: 5'6" (168 cm) - Female: 5'4" (163 cm) - Lifespan: Does Not Age
+			- [[Crimsons]] (Common, Demon) -- Avg Height: - Male: 5'8" (173 cm) - Female: 5'6" (168 cm) - Lifespan: Does Not Age
+			- [[Allureans]] (Common, Demon) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'5" (165 cm) - Lifespan: Does Not Age
+			- [[Solarins]] | [[Solarins|Aurans]] (Common, Demon) -- Avg Height: - Male: 5'6" (168 cm) - Female: 5'4" (163 cm) - Lifespan: Does Not Age
+			- [[Thralls]] (Demon) -- Avg Height: - Male: 5'4" (163 cm) - Female: 5'4" (157 cm) - Lifespan: 150yrs
+		- [[Zombiefolk]] (Common + Host Species Languages) - Lifespan: Does Not Age
+		- [[Lizardmen]] (Akesh, Common)
+		- [[Arachne]]
+		- [[Lamia]]
+		- [[Antraxi]] (Ithrak, Common) -- Avg Height: - Male: 4'4" (132 cm) - Female: 4'2" (127 cm) - Lifespan: 50yrs
+		- Mantis people
+		- [[Oni]] (Orcish, Gobish, Common)
+		- [[Shriekyn]] (Ithrak, Common) - Bat
+		- [[Slimefolk]] - Lifespan: 20-1050yrs
+		- Bee people
+		- 
+		- [[Alraune]]
+			- [[Sapsuri]] (Elyrian, Common) -- Avg Height: - Female: 6'4" (193 cm) - Lifespan: 750yrs 
+			- [[Venofae-Ivy]] (Demon, Common) -- Avg Height: - Female: 6'4" (193 cm) - Lifespan: 750yrs
+		- [[Dragonkin]] | [[Dragonkin|Dracodylidae]] (Āëdiríth, Common) 
+			- [[Dragon-Newt]]
+			- [[Dragonette]]
+			- [[Dragonborn]]
+			- [[Dragonfawn]]
+			- [[Dragonborn]]
+		- [[Orc]] (Orcish, Gobish, Common)
+	- [[Coralithal]] Species:-
+		- [[Merfolk]] (Common) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'3" (160 cm)
+		- [[Coralfolk]]
+		- [[Nautilites]] -- Avg Height: - Male: 7'5" (226 cm) - Lifespan: 45yrs
+		- [[Nythera]] | [[Nythera|Glowlings]]
+	- [[Demon]] Species:-
+		- [[Hellspawn]]
+		- [[Beastkin]]
+			- [[Neko]]
+			- [[Dogkin]]
+			- [[Wolfkin]]
+			- [[Bunkin]]
+			- [[Sheepkin]]
+			- [[Bearkin]]
+			- [[Raccoonkin]]
+			- [[Ratkin]]
+			- [[Mousekin]]
+			- [[Deerkin]]
+			- [[Fox-kin]]
+		- [[Cubi]]
+		- [[Dreamers]]
+		- [[Nox]] (Nox'kari, Common, Demon) -- Male: 5'7" (170 cm) - Female: 5'5" (165 cm) - Lifespan: 750yrs
+	- [[Subterran]] Species:-
+		- Molgari (Ithrak, Common)  - Mole people
+		- Breckin (Ithrak) - Rock People
+			- Murkin (Ithrak)
+			- Basaltan (Ithrak)
+		- [[Thryl'ka]] (Ithrak) - Hivemind Fungal species
+		- [[Snailfolk]] (Ithrak)
+	- [[Ethereal]] Species-
+		-  [[Wisps]]
+		-  [[Wraiths]]
+		-  [[Phantoms]]
+		-  [[Specters]]
+		-  [[Yuki-Onna]]
+	- [[Unaffiliated]] Species:-
+		- [[Harpy]] -- Avg Height: - Female: 5'9" (175 cm) - Lifespan: 350yrs
+		- [[Demon Royals]]
+		- [[Otherworlders]] (Common)
+	- 
+- {[[Languages]]}    
+	- Common     -common
+	- Elyrian      - forest
+	- Beastrian     - beastkin and some elyrians
+	- Demon         - demons
+	- Akesh     - lizard
+	- Shavari    - underground
+	- Ithrak    - underground common
+	- Thalgrin - underground
+	- Nox'kari   -  Nox
+	- Orcish     - orcs
+	- Gobish     - goblins
+	- Āëdiríth     -dragons
+- {[[General Info]]}
+	- [[Classes]]
+	- [[Adventurer Rank]]
+	- [[Settlement Population Classifications]]
+	- [[Gods]]
+	- [[Religion]]
+- {[[Magic]]}
+	- [[Blood Types]]
+		- [[Blessed Blood]
+			- Can use Light Magic
+		- [Scorched Blood]
+			- Can use Fire Magic
+		- 
+- {[[Realms-Continents-Countries]]}
+	- [[Sky Islands]]
+	- [[Realm of Races]]
+		- [[Uria]]
+			- [[Drakensveld]]
+		- [[Aeloria]]
+			- [[Kingdom of Sulmanite]]
+			- [[Varka D'luive]]
+			- [[Varnisse]]
+			- [[Baelrath Pyre]]
+			- [[Infernum]]
+		- [[Vardheim]]
+		- [[Yurei]]
+			- [[Cursedlands]]
+			- 
+		- [[Lustria]]
+			- [[Allurea]]
+			- [[Aurelion]]
+			- [[Ikeshmire]]
+			- [[Skaldarune]]
+			- [[Virelian]]
+			- [[Var-Krendell]]
+			- [[Kragmourn]]
+			- [[Kingdom of Highmark]]
+			- [[Dawnriver Kingdom]]
+			- [[Kingdom of Bryndor]]
+	- [[Underworld]]
+		- [[Undergrowth]]
+		- [[Deeproot]]
+		- [[Abyss]]
+			- [[Nox Fortuna]]
+		- 
+	- [[The Deep]]
+	- [[Empyrean]]
+	- 
+- {[[Forsaken Lands]]}
+	- [[Cursedlands]]
+	- [[Infernum]]
+	- [[Deadfrost]]
+	- [[Veil]]
+	- [[Everwaste]]
+- 
+
+**Diplomacy:**
+- [Wars]
+- [Alliances]
+	- [[Uria]]
+		- [[West Uria Alliance]]
+	- [[Aeloria]]
+		- [[South Aelorian Cluster]]
+		- [[Vavakin League]]
+			- [[Kingdom of Sulmanite]]
+	- [[Lustria]]
+		- [[Lurean Compact]]
+			- [[Allurea]]
+			- [[Nox Fortuna]]
+		- [[Lurea Hexarch Bloc]]
+			- [[Aurelion]]
+			- [[Ikeshmire]]
+			- [[Skaldarune]]
+			- [[Virelian]]
+			- [[Var-Krendell]]
+			- [[Kragmourn]]
+		-  [[Tridor Defense Pact]]
+			- [[Kingdom of Highmark]]
+			- [[Dawnriver Kingdom]]
+			- [[Kingdom of Bryndor]]
+		- 
+- 
+
+_______________________________________________________________________________________________

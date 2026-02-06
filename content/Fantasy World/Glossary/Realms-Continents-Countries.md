@@ -1,0 +1,23 @@
+#location 
+- {[[Realms-Continents-Countries]]}
+	- [[Sky Islands]]
+	- [[Realm of Races]]
+		- [[Uria]]
+			- [[Norikai]]
+			- [[Drakensveld]]
+		- [[Aeloria]]
+			- [[Kingdom of Sulmanite]]
+			- [[Varka D'luive]]
+			- [[Infernum]]
+		- [[Vardheim]]
+		- [[Yurei]]
+			- [[Cursedlands]]
+			- 
+		- [[Lustria]]
+		- 
+	- [[Underworld]]
+		- [[Undergrowth]]
+		- [[Deeproot]]
+		- [[Abyss]]
+		- 
+	- 
