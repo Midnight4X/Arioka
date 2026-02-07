@@ -34,23 +34,6 @@ Civil Hellspawn Purple
 
 ---
 
-The 5 Divine Ones:
-
-Kindness
-Charity
-Humility
-
-The 5 Infernals
-
-Sloth - Iris often meets with them in her dreams.
-Death
-Greed - Avaris
-Lust - Seraphine
-Gluttony - Mawra
-
-
-Still need Bulwark
-
 Familiars/Pets:
 
 - [[Penelope]]
