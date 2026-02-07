@@ -1,4 +1,8 @@
-#species 
+---
+tags:
+  - species
+---
+---
 
 Lifespan greatly depends on where the Slime was born and how dense the magic in the area was.
 

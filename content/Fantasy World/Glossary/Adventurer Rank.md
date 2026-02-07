@@ -1,4 +1,8 @@
-#info
+---
+tags:
+  - info
+---
+---
 
 Adventurer Ranks:
 

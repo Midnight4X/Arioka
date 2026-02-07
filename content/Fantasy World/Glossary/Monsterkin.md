@@ -1,4 +1,8 @@
-#species
+---
+tags:
+  - species
+---
+---
 
 -Monsterkin Species:-
 	[[Goblina]] (Gobish, Common) -- Avg Height: - Male: 4'5" (138 cm) - Female: 4'3" (132 cm) - Lifespan: 250yrs

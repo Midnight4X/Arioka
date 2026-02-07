@@ -1,5 +1,7 @@
-#location 
-
+---
+tags:
+  - location
+---
 ---
 
 - The [[Seven Daedric Islands]] are ruled by the [[Demon Royals]] and is the place they originated from. Each major outer island is each home to a major faction within the [[Demon Royals]] and is named after them. Meanwhile the middle island is shared between all of them and is where the ruler of the [[Demon Royals]] rules from. It acts as the central hub for all of the other factions and people of the [[Demon Royals]].

@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Arioka
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Click here to access the main page: [[Arioka]]

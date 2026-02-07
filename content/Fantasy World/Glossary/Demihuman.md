@@ -1,4 +1,8 @@
-#species
+---
+tags:
+  - species
+---
+---
 
 -Demihuman Species-
 	[[Catfolk]] | [[Neko|Felistria]]: Cat (Common) -- Avg Height: - Male: 5'5" (168 cm) - Female: 5'2" (158 cm) - Lifespan: 115yrs

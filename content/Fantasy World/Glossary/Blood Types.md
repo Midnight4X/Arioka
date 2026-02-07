@@ -1,4 +1,8 @@
-#info
+---
+tags:
+  - info
+---
+---
 
 The blood type you are born with determines what kind of magic you are able to use. It can also have certain effects on the body or others. It is entirely possible to have mixed blood in any combination.
 

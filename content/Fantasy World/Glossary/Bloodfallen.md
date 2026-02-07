@@ -1,1 +1,5 @@
-#faction
+---
+tags:
+  - faction
+---
+---

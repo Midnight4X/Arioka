@@ -1,4 +1,9 @@
-#faction #location
+---
+tags:
+  - faction
+  - location
+---
+---
 
 [[Baelrath Pyre]] is a powerful nation of [[Hellspawn]] located on the west of the [[Aeloria]] continent. They are very close allies with [[Varnisse]] who they saved from getting wiped out completely. Since then [[Varnisse]] has been critical to the security interest of [[Baelrath Pyre]] especially due to the strategic position that [[Varnisse]] currently occupies. 
 

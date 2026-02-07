@@ -1,4 +1,8 @@
-#species
+---
+tags:
+  - species
+---
+---
 
 -Elyrian Species-
 	[[Elves]] (Elyrian, Common) -- Avg Height: - Male: 5'7" (174 cm) - Female: 5'3" (162 cm) - Lifespan: 500-1200yrs

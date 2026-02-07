@@ -1,4 +1,8 @@
-#realm 
+---
+tags:
+  - realm
+---
+---
 
 The [[Empyrean]] is the realm of the [[Gods]] that is completely inaccessible by all beings that are not [[Gods]] or [[Exalted Champions]] except under special circumstances. 
 

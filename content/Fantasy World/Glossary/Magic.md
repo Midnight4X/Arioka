@@ -1,4 +1,9 @@
-#info
+---
+tags:
+  - info
+---
+---
+
 - {[[Magic]]}
 	- [[Blood Types]]
 		- [[Blessed Blood]

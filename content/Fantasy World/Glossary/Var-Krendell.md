@@ -1,2 +1,8 @@
-#faction #location
+---
+tags:
+  - faction
+  - location
+---
+---
+
 Yellow

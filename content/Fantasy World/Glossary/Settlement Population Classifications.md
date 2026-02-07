@@ -1,4 +1,8 @@
-#info 
+---
+tags:
+  - info
+---
+---
 
 Populations for Settlements:
 

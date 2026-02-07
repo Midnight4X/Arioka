@@ -1,4 +1,9 @@
-#faction #location
+---
+tags:
+  - faction
+  - location
+---
+---
 
 [[Varnisse]] is a small nation of [[Vampire|Vampires]] located in the west of the continent of [[Aeloria]]. They once controlled 40% of the south of the continent and was the strongest nation on the continent. However after the [[Vampire Culling]] they lost most of their territory and would have gotten wiped out completely if not for [[Baelrath Pyre]] allying with them and assigning themselves as protectorate of [[Varnisse]]. To this day [[Varnisse]] remains in an alliance with [[Baelrath Pyre]] and are very close allies.  
 

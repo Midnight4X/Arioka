@@ -1,4 +1,8 @@
-#character
+---
+tags:
+  - character
+---
+---
 
 **Character:**
 

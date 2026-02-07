@@ -1,3 +1,7 @@
-#species 
+---
+tags:
+  - species
+---
+---
 
 Plant-like Humanoids

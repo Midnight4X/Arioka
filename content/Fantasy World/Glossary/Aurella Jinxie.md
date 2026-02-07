@@ -1,1 +1,5 @@
-#character
+---
+tags:
+  - character
+---
+---

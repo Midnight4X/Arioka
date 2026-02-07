@@ -1,4 +1,8 @@
-#species
+---
+tags:
+  - species
+---
+---
 
 Hair color is always a darker version of their skin color
 

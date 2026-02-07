@@ -1,4 +1,8 @@
-#info 
+---
+tags:
+  - info
+---
+---
 
 Main Character:
 - [[Akari Bloodfallen]] 

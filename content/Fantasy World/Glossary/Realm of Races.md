@@ -1,4 +1,9 @@
-#realm
+---
+tags:
+  - realm
+---
+---
+
 Realm of Races
 		- [[Uria]]
 			- [[Drakensveld]]

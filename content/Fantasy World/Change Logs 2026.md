@@ -1,8 +1,23 @@
-#info
+---
+tags:
+  - info
+---
+---
+
+---
+
+06/02/2026
+
+- Retagged every single note for use for website. (THIS TOOK 4 HOURS FUCK)
+
+---
+
 
 05/02/2026
 
 - Added Lurea Mountain Pass
+
+---
 
 01/02/2026
 

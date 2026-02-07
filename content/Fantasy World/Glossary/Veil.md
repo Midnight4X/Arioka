@@ -1,3 +1,7 @@
-#location
+---
+tags:
+  - location
+---
+---
 
 Eldritch horror place

@@ -1,4 +1,9 @@
-#faction #location 
+---
+tags:
+  - faction
+  - location
+---
+---
 
 Population: 115 million | Major Cities: 15 | Cities 67 | Minor Cities: 382 | Towns: 11,250 | Villages: 178,000
 

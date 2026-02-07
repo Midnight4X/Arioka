@@ -1,4 +1,8 @@
-#species
+---
+tags:
+  - species
+---
+---
 
 -Demon Species:-
 	[[Hellspawn]]

@@ -1,4 +1,8 @@
-#fantasy
+---
+tags:
+  - fantasy
+---
+---
 
 [[Unnamed.canvas]]
 

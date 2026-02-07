@@ -1,4 +1,10 @@
-#faction #location
+---
+tags:
+  - faction
+  - location
+---
+---
+
 Goblina and Orc Lime
 
 Primary Religion:

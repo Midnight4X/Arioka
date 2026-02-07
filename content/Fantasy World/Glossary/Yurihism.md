@@ -1,4 +1,8 @@
-#religion 
+---
+tags:
+  - religion
+---
+---
 
 [[Yurihism]] is a [[Religion]] that worships and celebrates the connection, love, and sacred bond between women. Its followers see these bonds as the highest form of devotion and a force capable of shaping the world in ways even the [[Gods]] cannot. Members of [[Yurihism]] perform acts of bonding, shared rituals, and intimate companionship all in an effort to strengthen and build a connection with each other. These acts are considered sacred and beautiful to witness which is why they are often done in groups.
 

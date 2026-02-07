@@ -1,4 +1,8 @@
-#religion 
+---
+tags:
+  - religion
+---
+---
 
 Religion of Gods:
 

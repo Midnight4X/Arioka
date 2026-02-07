@@ -1,5 +1,7 @@
-#faction
-
+---
+tags:
+  - faction
+---
 ---
 
 - [[Dystan-iluminos]] is a nomadic [[Vampire]] clan whose entire lineage was cursed by the [[Allurea|Overlord of Vampires]] after they tried to steal some [[Allureans|Allurean]] blood. They have no land to their name and aren't recognized by any other [[Vampire]] factions as an official noble family due to their transgressions. They live inside makeshift cabins inside of which ever forest they deem safe to settle in for awhile. They hide away from other [[Vampire|Vampires]] because if they are discovered to be alive the [[Allurea|Overlord of Vampires]] may come and destroy them all for finding a way to survive.

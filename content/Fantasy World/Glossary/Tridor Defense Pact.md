@@ -1,4 +1,8 @@
-#alliance
+---
+tags:
+  - alliance
+---
+---
 
 The [[Tridor Defense Pact]] is an defensive alliance formed by 3 countries on the east of [[Lustria]].
 

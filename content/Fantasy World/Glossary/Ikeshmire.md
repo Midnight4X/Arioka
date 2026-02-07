@@ -1,4 +1,10 @@
-#faction #location
+---
+tags:
+  - faction
+  - location
+---
+---
+
 Lizardmen Dark Green
 
 Primary Religion:

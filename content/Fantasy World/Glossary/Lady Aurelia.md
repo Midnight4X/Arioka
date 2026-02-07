@@ -1,4 +1,8 @@
-#deity 
+---
+tags:
+  - deity
+---
+---
 
 Gender: Female
 

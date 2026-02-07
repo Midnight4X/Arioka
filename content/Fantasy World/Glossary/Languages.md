@@ -1,4 +1,9 @@
-#info
+---
+tags:
+  - info
+---
+---
+
 - {[[Languages]]}    
 	- Common     -common
 	- Elyrian      - forest

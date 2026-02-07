@@ -1,4 +1,8 @@
-#deity
+---
+tags:
+  - deity
+---
+---
 
 The Hierarchy of Gods:
 

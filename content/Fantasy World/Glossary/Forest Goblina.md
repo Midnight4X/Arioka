@@ -1,5 +1,7 @@
-#species
-
+---
+tags:
+  - species
+---
 ---
 
 [Appearance:]

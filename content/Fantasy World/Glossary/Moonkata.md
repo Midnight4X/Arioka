@@ -1,4 +1,8 @@
-#info 
+---
+tags:
+  - info
+---
+---
 
 Type of martial art posed down through many generations of [[Bunnyfolk]]
 

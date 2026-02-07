@@ -1,1 +1,5 @@
-#continent 
+---
+tags:
+  - continent
+---
+---

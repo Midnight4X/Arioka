@@ -1,4 +1,9 @@
-#faction #location 
+---
+tags:
+  - faction
+  - location
+---
+---
 
 [[Varka D'luive]] is a small nation of [[Vampire|Vampires]] located in the center of the continent of [[Aeloria]]. They used to be one of the strongest powers on the continent and controlled around 65% of the North but gradually they started losing control and lost war after war as other nations rallied and grew stronger due to the [[Vampire Culling]]. Thanks to the [[Vavakin League]], [[Varka D'luive]] is a shell of its former self and now relies on the [[Vavakin League]] for trade. There are talks about [[Varka D'luive]] joining the [[Vavakin League]] for many years but the talks never end up materializing due to some nations in the league being against it.
 

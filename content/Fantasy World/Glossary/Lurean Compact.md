@@ -1,4 +1,8 @@
-#alliance 
+---
+tags:
+  - alliance
+---
+---
 
 A security and trade alliance based in the continent of [[Lustria]] and underworld of the [[Abyss]].
 

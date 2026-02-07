@@ -1,6 +1,8 @@
-#fantasy #location
-
-
+---
+tags:
+  - fantasy
+  - location
+---
 ---
 
 **General Info:**
@@ -122,7 +124,40 @@
 	- [[Adventurer Rank]]
 	- [[Settlement Population Classifications]]
 	- [[Gods]]
+		- [[Equilon]]
+		- [[Lady Aurelia]]
+			- [[Seven Venerators]]
+				- [[Temperance]]
+				- [[Charity]]
+				- [[Humility]]
+				- [[Diligence]]
+				- [[Chasity]]
+				- [[Patience]]
+				- [[Kindness]]
+		- [[Lady Seraphine]]
+			- [[Seven Apostates]]
+				- [[Pride]]
+				- [[Greed]]
+				- [[Lust]]
+				- [[Sloth]]
+				- [[Wrath]]
+				- [[Envy]]
+				- [[Gluttony]]
+		- [[Lady Mortella]]
+			- [[Seven Abstractions]]
+				- [[Hope]]
+				- [[Chaos]]
+				- [[War]]
+				- [[Curiosity]]
+				- [[Silence]]
+				- [[Solitude]]
+				- [[Wisdom]]
 	- [[Religion]]
+		- [[Order of Balance]]
+		- [[Church of Light]]
+		- [[Sect of Dark]]
+		- [[Coven of Death]]
+		- [[Yurihism]]
 - {[[Magic]]}
 	- [[Blood Types]]
 		- [[Blessed Blood]
@@ -201,3 +236,4 @@
 - 
 
 _______________________________________________________________________________________________
+

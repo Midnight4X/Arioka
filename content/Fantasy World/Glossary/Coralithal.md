@@ -1,4 +1,8 @@
-#species
+---
+tags:
+  - species
+---
+---
 
 -Coralithal Species:-
 	[[Merfolk]] (Common) -- Avg Height: - Male: 5'7" (173 cm) - Female: 5'3" (162 cm)

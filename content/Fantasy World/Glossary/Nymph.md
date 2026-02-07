@@ -1,3 +1,7 @@
-#species 
+---
+tags:
+  - species
+---
+---
 
 Elemental Spirits

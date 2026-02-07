@@ -1,4 +1,9 @@
-#species
+---
+tags:
+  - species
+---
+---
+
 Dark brown, green and purple skin. Horns on forehead
 
 Related to Orcs

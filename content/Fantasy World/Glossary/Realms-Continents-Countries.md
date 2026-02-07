@@ -1,4 +1,9 @@
-#location 
+---
+tags:
+  - location
+---
+---
+
 - {[[Realms-Continents-Countries]]}
 	- [[Sky Islands]]
 	- [[Realm of Races]]

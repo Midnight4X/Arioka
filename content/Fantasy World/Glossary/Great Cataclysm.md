@@ -1,1 +1,5 @@
-#event
+---
+tags:
+  - event
+---
+---

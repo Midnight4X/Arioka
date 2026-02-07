@@ -1,5 +1,7 @@
-#alliance
-
+---
+tags:
+  - alliance
+---
 A diplomatic cooperation and trade alliance with the 11 northern nations of [[Aeloria]].
 
 [Countries:]

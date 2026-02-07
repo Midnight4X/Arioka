@@ -1,4 +1,8 @@
-#species
+---
+tags:
+  - species
+---
+---
 
 Hair colour is two tone as well as scales. One will be a brighter shade of a colour and the other a very dark shade.
 

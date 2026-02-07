@@ -1,4 +1,8 @@
-#info
+---
+tags:
+  - info
+---
+---
 
 - {[[General Info]]}
 	- [[Classes]]

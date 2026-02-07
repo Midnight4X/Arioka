@@ -1,4 +1,8 @@
-#location
+---
+tags:
+  - location
+---
+---
 
 The [[Lurea Mountain Pass]] is a defensive set of 4 walls built by [[Allurea]] to prevent invasion past the [[Lurea Mountains]]. It was originally just 2 massive walls but after the [[Vampire Culling]] they built an additional 2 to the Far East and Far West. 
 

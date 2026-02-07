@@ -1,1 +1,5 @@
-#faction #location
+---
+tags:
+  - faction
+  - location
+---

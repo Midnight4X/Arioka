@@ -1,4 +1,9 @@
-#faction #location 
+---
+tags:
+  - faction
+  - location
+---
+---
 
 The [[Kingdom of Sulmanite]] is a kingdom born from [[Demihuman]] and [[Low Elves|Low Elf]] cooperation located in the continent of [[Aeloria]]. By banding together and helping each other during a time of great conflict they grew to become the most powerful kingdom in [[Aeloria]] and are the main protectorate of the [[Vavakin League]]. They are currently ruled by a [[Low Elves|Low Elf]] named [[Matriarch Benemia]].
 
