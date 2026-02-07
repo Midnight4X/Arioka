@@ -9,7 +9,7 @@ tags:
 
 
 <details>
-  <summary><a href="General Info.html">General Info:</a></summary>
+  <summary><a href="General Info.html">General Info</a></summary>
   <ul>
       <details>
         <summary><a href="Gods.html">Gods</a></summary>
@@ -145,7 +145,7 @@ tags:
 
 
 <details>
-  <summary><a href="Species.html">Species:</a></summary>
+  <summary><a href="Species.html">Species</a></summary>
   <ul>
       <details>
         <summary><a href="Human.html">Human</a> Species:</summary>
@@ -463,11 +463,269 @@ tags:
 
 
 
+<details>
+  <summary><a href="Realms-Continents-Countries.html">Realms-Continents-Countries</a></summary>
+  <ul>
+      <details>
+        <summary><a href="Sky Islands.html">Sky Islands</a></summary>
+        <ul>
+		      <details>
+		        <summary><a href=".html"></a></summary>
+		        <ul>
+			          <li><a href=".html"></a></li>
+			        </ul>
+			        <ul>
+			    </details>
+			</details
+		</details>
+      <details>
+        <summary><a href="Realm of Races.html">Realm of Races</a></summary>
+        <ul>
+		      <details>
+		        <summary><a href="Uria.html">Uria</a></summary>
+		        <ul>
+		          <li><a href="Drakensveld.html">Drakensveld</a></li>
+		        </ul>
+		    </details>
+		    </ul>
+		    <ul>
+		      <details>
+		        <summary><a href="Aeloria.html">Aeloria</a></summary>
+		        <ul>
+		          <li><a href="Kingdom of Sulmanite.html">Kingdom of Sulmanite</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Varka D'luive.html">Varka D'luive</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Varnisse.html">Varnisse</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Baelrath Pyre.html">Baelrath Pyre</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Infernum.html">Infernum</a></li>
+		        </ul>
+		    </details>
+		    </ul>
+		    <ul>
+		      <details>
+		        <summary><a href="Vardheim.html">Uria</a></summary>
+		        <ul>
+		          <li><a href=".html"></a></li>
+		        </ul>
+		    </details>
+		    </ul>
+		    <ul>
+		      <details>
+		        <summary><a href="Yurei.html">Yurei</a></summary>
+		        <ul>
+		          <li><a href="Cursedlands.html">Cursedlands</a></li>
+		        </ul>
+		    </details>
+		    </ul>
+		    <ul>
+		      <details>
+		        <summary><a href="Lustria.html">Lustria</a></summary>
+		        <ul>
+		          <li><a href="Allurea.html">Allurea</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Aurelion.html">Aurelion</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Ikeshmire.html">Ikeshmire</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Skaldarune.html">Skaldarune</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Virelian.html">Virelian</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Var-Krendell.html">Var-Krendell</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Kragmourn.html">Kragmourn</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Kingdom of Highmark.html">Kingdom of Highmark</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Dawnriver Kingdom.html">Dawnriver Kingdom</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Kingdom of Bryndor.html">Kingdom of Bryndor</a></li>
+		        </ul>
+		    </details>
+		</details>
+      <details>
+        <summary><a href="Underworld.html">Underworld</a></summary>
+        <ul>
+		      <details>
+		        <summary><a href="Undergrowth.html">Undergrowth</a></summary>
+		        <ul>
+			        <li><a href=".html"></a></li>
+			       </ul>
+			</details>
+			</ul>
+			<ul>
+		      <details>
+		        <summary><a href="Deeproot.html">Deeproot</a></summary>
+		        <ul>
+			    <li><a href=".html"></a></li>
+			       </ul>
+			</details>
+			</ul>
+			<ul>
+		      <details>
+		        <summary><a href="Abyss.html">Abyss</a></summary>
+		        <ul>
+			     <li><a href="Nox Fortuna.html">Nox Fortuna</a></li>
+			       </ul>
+			</details>
+		</details>
+      <details>
+        <summary><a href="The Deep.html">The Deep</a></summary>
+        <ul>
+		      <details>
+		        <summary><a href="Undergrowth.html"></a></summary>
+		        <ul>
+			        <li><a href=".html"></a></li>
+			       </ul>
+			</details>
+		</details>
+      <details>
+        <summary><a href="Empyrean.html">Empyrean</a></summary>
+        <ul>
+		      <details>
+		        <summary><a href=".html"></a></summary>
+		        <ul>
+			        <li><a href=".html"></a></li>
+			       </ul>
+			</details>
+		</details>
+			</ul>
+			<ul>
+			    </details>
+			</details
+		</details>
 
-  
 
-h
 
-h
+<details>
+  <summary><a href="Forsaken Lands.html">Forsaken Lands</a></summary>
+  <ul>
+    <li><a href="Cursedlands.html">Cursedlands</a></li>
+    <li><a href="Infernum.html">Infernum</a></li>
+    <li><a href="Deadfrost.html">Deadfrost</a></li>
+    <li><a href="Veil.html">Veil</a></li>
+    <li><a href="Everwaste.html">Everwaste</a></li>
+  </ul>
+</details>
 
-h
+---
+
+***Diplomacy:***
+
+<details>
+  <summary><a href="Wars.html">Wars</a></summary>
+  <ul>
+    <li><a href=".html"></a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><a href="Alliances.html">Alliances</a></summary>
+  <ul>
+      <details>
+        <summary><a href="Uria.html">Uria</a></summary>
+        <ul>
+		      <details>
+		        <summary><a href="West Uria Alliance.html">West Uria Alliance</a></summary>
+		        <ul>
+			          <li><a href=".html"></a></li>
+			        </ul>
+			        <ul>
+			    </details>
+			</details
+		</details>
+      <details>
+        <summary><a href="Aeloria.html">Aeloria</a></summary>
+        <ul>
+		      <details>
+		        <summary><a href="South Aelorian Cluster.html">South Aelorian Cluster</a></summary>
+		        <ul>
+			          <li><a href=".html"></a></li>
+			        </ul>
+			        <ul>
+			    </details>
+		      <details>
+		        <summary><a href="Vavakin League.html">Vavakin League</a></summary>
+		        <ul>
+			          <li><a href="Kingdom of Sulmanite.html">Kingdom of Sulmanite</a></li>
+			        </ul>
+			        <ul>
+			    </details>
+			</details
+		</details>
+      <details>
+        <summary><a href="Vardheim.html">Vardheim</a></summary>
+        <ul>
+		      <details>
+		        <summary><a href=".html"></a></summary>
+		        <ul>
+			          <li><a href=".html"></a></li>
+			        </ul>
+			        <ul>
+			    </details>
+			</details
+		</details>
+      <details>
+        <summary><a href="Yurei.html">Yurei</a></summary>
+        <ul>
+		      <details>
+		        <summary><a href=".html"></a></summary>
+		        <ul>
+			          <li><a href=".html"></a></li>
+			        </ul>
+			        <ul>
+			    </details>
+			</details
+		</details>
+      <details>
+        <summary><a href="Lustria.html">Lustria</a></summary>
+        <ul>
+		      <details>
+		        <summary><a href="Lurean Compact.html">Lurean Compact</a></summary>
+		        <ul>
+			          <li><a href="Allurea.html">Allurea</a></li>
+			          <li><a href="Nox Fortuna.html">Nox Fortuna</a></li>
+			        </ul>
+			        <ul>
+			    </details>
+		      <details>
+		        <summary><a href="Lurea Hexarch Bloc.html">Lurea Hexarch Bloc</a></summary>
+		        <ul>
+			          <li><a href="Aurelion.html">Aurelion</a></li>
+			          <li><a href="Ikeshmire.html">Ikeshmire</a></li>
+			          <li><a href="Skaldarune.html">Skaldarune</a></li>
+			          <li><a href="Virelian.html">Virelian</a></li>
+			          <li><a href="Var-Krendell.html">Var-Krendell</a></li>
+			          <li><a href="Kragmourn.html">Kragmourn</a></li>
+			        </ul>
+			        <ul>
+			    </details>
+		      <details>
+		        <summary><a href="Tridor Defense Pact.html">Tridor Defense Pact</a></summary>
+		        <ul>
+			          <li><a href="Kingdom of Highmark.html">Kingdom of Highmark</a></li>
+			          <li><a href="Dawnriver Kingdom.html">Dawnriver Kingdom</a></li>
+			          <li><a href="Kingdom of Bryndor.html">Kingdom of Bryndor</a></li>
+			        </ul>
+			        <ul>
+			    </details>
+			</details
+		</details>
+	</details>
+</details>
