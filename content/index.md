@@ -1,5 +1,7 @@
 ---
 title: Welcome to Arioka
 ---
-Click here to access the main page:
+Warning there is a lot of unfinished information
+
+### Click here to access the main page:
 # [[Arioka]]

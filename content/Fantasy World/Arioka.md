@@ -5,235 +5,469 @@ tags:
 ---
 ---
 
-**General Info:**
-- {[[Species]]}
-	- [[Human]] Species:-
-		- [[Human]] (Common) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'3" (160 cm) - Lifespan: 100yrs
-		- [[Dwarf]] (Common) -- Avg Height: - Male: 4'4" (132 cm) - Female: 4'2" (127 cm) - Lifespan: 150yrs
-		- [[Gnome]] (Common) -- Avg Height - Male:  3'4" (102 cm) - Female: 3'2" (96 cm) - Lifespan: 165yrs
-	- [[Demihuman]] Species:-
-		- [[Catfolk]] | [[Neko|Felistria]]: Cat (Common) -- Avg Height: - Male: 5'5" (165 cm) - Female: 5'2" (157 cm) - Lifespan: 115yrs
-		- [[Dogfolk]] | [[Dogfolk|Canisina]]: Dog (Common) -- Avg Height: - Male: 5'6" (168 cm) - Female: 5'3" (160 cm) - Lifespan: 95yrs
-		- [[Wolf-folk]] | [[Wolf-folk|Canisine]]: Wolf (Common) -- Avg Height: - Male: 6'0" (183 cm) - Female: 5'7" (170 cm) - Lifespan: 90yrs
-		- [[Bunnyfolk]] | [[Bunnyfolk|Oytolagius]]: Bunny (Common) -- Avg Height: - Male: 5'9" (175 cm) - Female: 5'5" (165 cm) - Lifespan: 125yrs
-		- [[Raccoonfolk]] | [[Raccoonfolk|Procyon-lotorna]]: Racoon (Common) -- Avg Height: - Male: 5'4" (163 cm) - Female: 5'0" (152 cm) - Lifespan: 100yrs
-		- [[Mousefolk]] | [[Mousefolk|Musculus]]: Mice (Common) -- Avg Height: - Male: 4'4" (132 cm) - Female: 4'2" (127 cm) - Lifespan: 150yrs
-		- [[Sheepfolk]] | [[Sheepfolk|Ovisal]]: Sheep (Common) -- Avg Height: - Male: 5'0" (152 cm) - Female: 4'8" (142 cm) - Lifespan: 105yrs
-		- [[Goatfolk]] | [[Goatfolk|Capratis]]: Goat (Common) -- Avg Height: - Male: 5'2" (157 cm) - Female: 5'0" (152 cm) - Lifespan: 105yrs
-		- [[Cowfolk]] | [[Cowfolk|Taurus]]: Cow (Common) -- Avg Height: - Male: 6'0" (183 cm) - Female: 5'7" (170 cm) - Lifespan: 120yrs
-		- [[Kitsune]] | [[Kitsune|Vulpestro]]: Fox (Common) -- Avg Height: - Female: 5'4" (163 cm) - Lifespan: 1250yrs
-		- [[Centaur]] | [[Centaur|Equisfera]]: Horse (Common) -- Avg Height: - Male: 7'4" (224 cm) - Female: 7'2" (218 cm) - Lifespan: 180yrs
-	- [[Elyrian]] Species-
-		- [[Elves]]
-			- [[High Elves]] (Elyrian, Common) -- Avg Height: - Male: 5'8" (173 cm) - Female: 5'4" (163 cm) - Lifespan: 1200yrs
-			- [[Low Elves]] (Elyrian, Common) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'3" (160 cm) - Lifespan: 500yrs
-			- [[Dark Elves]] (Elyrian, Common) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'3" (160 cm) - Lifespan: 500yrs
-			- [[Wood Elves]] (Elyrian, Common, Beastrian) -- Avg Height: - Male: 5'5" (165 cm) - Female: 5'2" (157 cm) - Lifespan: 850yrs
-		- [[Pixie]] (Elyrian, Common) -- Avg Height: - Male: 6" (15 cm) - Female: 6" (15 cm) - Lifespan: 350yrs
-		- [[Fairy]] (Elyrian) -- Avg Height: - Male: 10" (25 cm) - Female: 10" (25 cm) - Lifespan: 650yrs
-		- [[Dryads]] (Elyrian, Beastrian, Common) -- Avg Height: - Female: 5'6" (168 cm) - Lifespan: 5000yrs
-		- [[Petalfae]] (Elyrian) -- Avg Height: - Female: 5'4" (163 cm) - Lifespan: 750yrs
-		- [[Nymph]] (Elyrian) -- Avg Height: - Female: 5'5" (165 cm) - Lifespan: Unknown
-	- [[Monsterkin]] Species:-
-		- [[Goblina]] (Gobish, Common) -- Avg Height: - Male: 4'5" (135 cm) - Female: 4'3" (130 cm) - Lifespan: 350yrs
-			- [[Forest Goblina]]
-			- [[Desert Goblina]]
-			- [[Mountain Goblina]]
-		- [[Vampire]]
-			- [[Silvers]] (Common, Demon) -- Avg Height: - Male: 5'6" (168 cm) - Female: 5'4" (163 cm) - Lifespan: Does Not Age
-			- [[Crimsons]] (Common, Demon) -- Avg Height: - Male: 5'8" (173 cm) - Female: 5'6" (168 cm) - Lifespan: Does Not Age
-			- [[Allureans]] (Common, Demon) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'5" (165 cm) - Lifespan: Does Not Age
-			- [[Solarins]] | [[Solarins|Aurans]] (Common, Demon) -- Avg Height: - Male: 5'6" (168 cm) - Female: 5'4" (163 cm) - Lifespan: Does Not Age
-			- [[Thralls]] (Demon) -- Avg Height: - Male: 5'4" (163 cm) - Female: 5'4" (157 cm) - Lifespan: 150yrs
-		- [[Zombiefolk]] (Common + Host Species Languages) - Lifespan: Does Not Age
-		- [[Lizardmen]] (Akesh, Common)
-		- [[Arachne]]
-		- [[Lamia]]
-		- [[Antraxi]] (Ithrak, Common) -- Avg Height: - Male: 4'4" (132 cm) - Female: 4'2" (127 cm) - Lifespan: 50yrs
-		- Mantis people
-		- [[Oni]] (Orcish, Gobish, Common)
-		- [[Shriekyn]] (Ithrak, Common) - Bat
-		- [[Slimefolk]] - Lifespan: 20-1050yrs
-		- Bee people
-		- 
-		- [[Alraune]]
-			- [[Sapsuri]] (Elyrian, Common) -- Avg Height: - Female: 6'4" (193 cm) - Lifespan: 750yrs 
-			- [[Venofae-Ivy]] (Demon, Common) -- Avg Height: - Female: 6'4" (193 cm) - Lifespan: 750yrs
-		- [[Dragonkin]] | [[Dragonkin|Dracodylidae]] (Āëdiríth, Common) 
-			- [[Dragon-Newt]]
-			- [[Dragonette]]
-			- [[Dragonborn]]
-			- [[Dragonfawn]]
-			- [[Dragonborn]]
-		- [[Orc]] (Orcish, Gobish, Common)
-	- [[Coralithal]] Species:-
-		- [[Merfolk]] (Common) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'3" (160 cm)
-		- [[Coralfolk]]
-		- [[Nautilites]] -- Avg Height: - Male: 7'5" (226 cm) - Lifespan: 45yrs
-		- [[Nythera]] | [[Nythera|Glowlings]]
-	- [[Demon]] Species:-
-		- [[Hellspawn]]
-		- [[Beastkin]]
-			- [[Neko]]
-			- [[Dogkin]]
-			- [[Wolfkin]]
-			- [[Bunkin]]
-			- [[Sheepkin]]
-			- [[Bearkin]]
-			- [[Raccoonkin]]
-			- [[Ratkin]]
-			- [[Mousekin]]
-			- [[Deerkin]]
-			- [[Fox-kin]]
-		- [[Cubi]]
-		- [[Dreamers]]
-		- [[Nox]] (Nox'kari, Common, Demon) -- Male: 5'7" (170 cm) - Female: 5'5" (165 cm) - Lifespan: 750yrs
-	- [[Subterran]] Species:-
-		- Molgari (Ithrak, Common)  - Mole people
-		- Breckin (Ithrak) - Rock People
-			- Murkin (Ithrak)
-			- Basaltan (Ithrak)
-		- [[Thryl'ka]] (Ithrak) - Hivemind Fungal species
-		- [[Snailfolk]] (Ithrak)
-	- [[Ethereal]] Species-
-		-  [[Wisps]]
-		-  [[Wraiths]]
-		-  [[Phantoms]]
-		-  [[Specters]]
-		-  [[Yuki-Onna]]
-	- [[Unaffiliated]] Species:-
-		- [[Harpy]] -- Avg Height: - Female: 5'9" (175 cm) - Lifespan: 350yrs
-		- [[Demon Royals]]
-		- [[Otherworlders]] (Common)
-	- 
-- {[[Languages]]}    
-	- Common     -common
-	- Elyrian      - forest
-	- Beastrian     - beastkin and some elyrians
-	- Demon         - demons
-	- Akesh     - lizard
-	- Shavari    - underground
-	- Ithrak    - underground common
-	- Thalgrin - underground
-	- Nox'kari   -  Nox
-	- Orcish     - orcs
-	- Gobish     - goblins
-	- Āëdiríth     -dragons
-- {[[General Info]]}
-	- [[Classes]]
-	- [[Adventurer Rank]]
-	- [[Settlement Population Classifications]]
-	- [[Gods]]
-		- [[Equilon]]
-		- [[Lady Aurelia]]
-			- [[Seven Venerators]]
-				- [[Temperance]]
-				- [[Charity]]
-				- [[Humility]]
-				- [[Diligence]]
-				- [[Chasity]]
-				- [[Patience]]
-				- [[Kindness]]
-		- [[Lady Seraphine]]
-			- [[Seven Apostates]]
-				- [[Pride]]
-				- [[Greed]]
-				- [[Lust]]
-				- [[Sloth]]
-				- [[Wrath]]
-				- [[Envy]]
-				- [[Gluttony]]
-		- [[Lady Mortella]]
-			- [[Seven Abstractions]]
-				- [[Hope]]
-				- [[Chaos]]
-				- [[War]]
-				- [[Curiosity]]
-				- [[Silence]]
-				- [[Solitude]]
-				- [[Wisdom]]
-	- [[Religion]]
-		- [[Order of Balance]]
-		- [[Church of Light]]
-		- [[Sect of Dark]]
-		- [[Coven of Death]]
-		- [[Yurihism]]
-- {[[Magic]]}
-	- [[Blood Types]]
-		- [[Blessed Blood]
-			- Can use Light Magic
-		- [Scorched Blood]
-			- Can use Fire Magic
-		- 
-- {[[Realms-Continents-Countries]]}
-	- [[Sky Islands]]
-	- [[Realm of Races]]
-		- [[Uria]]
-			- [[Drakensveld]]
-		- [[Aeloria]]
-			- [[Kingdom of Sulmanite]]
-			- [[Varka D'luive]]
-			- [[Varnisse]]
-			- [[Baelrath Pyre]]
-			- [[Infernum]]
-		- [[Vardheim]]
-		- [[Yurei]]
-			- [[Cursedlands]]
-			- 
-		- [[Lustria]]
-			- [[Allurea]]
-			- [[Aurelion]]
-			- [[Ikeshmire]]
-			- [[Skaldarune]]
-			- [[Virelian]]
-			- [[Var-Krendell]]
-			- [[Kragmourn]]
-			- [[Kingdom of Highmark]]
-			- [[Dawnriver Kingdom]]
-			- [[Kingdom of Bryndor]]
-	- [[Underworld]]
-		- [[Undergrowth]]
-		- [[Deeproot]]
-		- [[Abyss]]
-			- [[Nox Fortuna]]
-		- 
-	- [[The Deep]]
-	- [[Empyrean]]
-	- 
-- {[[Forsaken Lands]]}
-	- [[Cursedlands]]
-	- [[Infernum]]
-	- [[Deadfrost]]
-	- [[Veil]]
-	- [[Everwaste]]
-- 
+***Information:***
 
-**Diplomacy:**
-- [Wars]
-- [Alliances]
-	- [[Uria]]
-		- [[West Uria Alliance]]
-	- [[Aeloria]]
-		- [[South Aelorian Cluster]]
-		- [[Vavakin League]]
-			- [[Kingdom of Sulmanite]]
-	- [[Lustria]]
-		- [[Lurean Compact]]
-			- [[Allurea]]
-			- [[Nox Fortuna]]
-		- [[Lurea Hexarch Bloc]]
-			- [[Aurelion]]
-			- [[Ikeshmire]]
-			- [[Skaldarune]]
-			- [[Virelian]]
-			- [[Var-Krendell]]
-			- [[Kragmourn]]
-		-  [[Tridor Defense Pact]]
-			- [[Kingdom of Highmark]]
-			- [[Dawnriver Kingdom]]
-			- [[Kingdom of Bryndor]]
-		- 
-- 
 
-_______________________________________________________________________________________________
+<details>
+  <summary><a href="General Info.html">General Info:</a></summary>
+  <ul>
+      <details>
+        <summary><a href="Gods.html">Gods</a></summary>
+        <ul>
+	        <ul>
+	          <li><a href="Equilon.html">Equilon</a></li>
+		      <details>
+		        <summary><a href="Lady Aurelia.html">Lady Aurelia</a></summary>
+		        <ul>
+			      <details>
+			        <summary><a href="Seven Venerators.html">Seven Venerators</a></summary>
+			        <ul>
+			          <li><a href="Temperance.html">Temperance</a></li>
+			        </ul>
+			        <ul>
+			          <li><a href="Charity.html">Charity</a></li>
+			        </ul>
+			        <ul>
+			          <li><a href="Humility.html">Humility</a></li>
+			        </ul>
+			        <ul>
+			          <li><a href="Diligence.html">Diligence</a></li>
+			        </ul>
+			        <ul>
+			          <li><a href="Chasity.html">Chasity</a></li>
+			        </ul>
+			        <ul>
+			          <li><a href="Patience.html">Patience</a></li>
+			        </ul>
+			        <ul>
+			          <li><a href="Kindness.html">Kindness</a></li>
+			        </ul>
+			    </details>
+			    </ul>
+			</details>
+		      <details>
+		        <summary><a href="Lady Seraphine.html">Lady Seraphine</a></summary>
+		        <ul>
+			      <details>
+			        <summary><a href="Seven Apostates.html">Seven Apostates</a></summary>
+			        <ul>
+			          <li><a href="Pride.html">Pride</a></li>
+			        </ul>
+			        <ul>
+			          <li><a href="Greed.html">Greed</a></li>
+			        </ul>
+			        <ul>
+			          <li><a href="Lust.html">Lust</a></li>
+			        </ul>
+			        <ul>
+			          <li><a href="Sloth.html">Sloth</a></li>
+			        </ul>
+			        <ul>
+			          <li><a href="Wrath.html">Wrath</a></li>
+			        </ul>
+			        <ul>
+			          <li><a href="Envy.html">Envy</a></li>
+			        </ul>
+			        <ul>
+			          <li><a href="Gluttony.html">Gluttony</a></li>
+			        </ul>
+			    </details>
+			    </ul>
+			</details>
+		      <details>
+		        <summary><a href="Lady Mortella.html">Lady Aurelia</a></summary>
+		        <ul>
+			      <details>
+			        <summary><a href="Seven Abstractions.html">Seven Abstractions</a></summary>
+			        <ul>
+			          <li><a href="Hope.html">Hope</a></li>
+			        </ul>
+			        <ul>
+			          <li><a href="Chaos.html">Chaos</a></li>
+			        </ul>
+			        <ul>
+			          <li><a href="War.html">War</a></li>
+			        </ul>
+			        <ul>
+			          <li><a href="Curiosity.html">Curiosity</a></li>
+			        </ul>
+			        <ul>
+			          <li><a href="Silence.html">Silence</a></li>
+			        </ul>
+			        <ul>
+			          <li><a href="Solitude.html">Solitude</a></li>
+			        </ul>
+			        <ul>
+			          <li><a href="Wisdom.html">Wisdom</a></li>
+			        </ul>
+			        </details>
+			        </ul>
+			    </details>
+			</details>
+	 <details>
+        <summary><a href="Religion.html">Religion</a></summary>
+        <ul>
+		       <ul>
+		      <li><a href="Order of Balance.html">Order of Balance</a></li>
+		       </ul>
+		       <ul>
+		     <li><a href="Church of Light.html">Church of Light</a></li>
+		       </ul>
+		       <ul>
+		     <li><a href="Sect of Dark.html">Sect of Dark</a></li>
+		       </ul>
+		       <ul>
+	         <li><a href="Coven of Death.html">Coven of Death</a></li>
+		       </ul>
+		       <ul>
+	         <li><a href="Yurihism.html">Yurihism</a></li>
+		       </ul>
+		   </details>
+        <li><a href="Classes.html">Classes</a></li>
+        <ul>
+        </ul>
+        <li><a href="Adventurer Rank.html">Adventurer Rank</a></li>
+        <ul>
+        </ul>
+        <li><a href="Settlement Population Classifications.html">Settlement Population Classifications</a></li>
+        <ul>
+				 </details>
+		        </ul>
+		      </details>
+		      </ul>
+	      </details>
+        </ul>
+      </details>
+    </ul>
+</ul>
+</details>
 
+
+
+<details>
+  <summary><a href="Species.html">Species:</a></summary>
+  <ul>
+      <details>
+        <summary><a href="Human.html">Human</a> Species:</summary>
+        <ul>
+	          <li><a href="Human.html">Human:</a> (Common) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'3" (160 cm) - Lifespan: 100yrs</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Dwarf.html">Dwarf:</a> (Common) -- Avg Height: - Male: 4'4" (132 cm) - Female: 4'2" (127 cm) - Lifespan: 150yrs</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Gnome.html">Gnome:</a> (Common) -- Avg Height - Male:  3'4" (102 cm) - Female: 3'2" (96 cm) - Lifespan: 165yrs</li>
+	        </ul>
+	      </details>
+	<details>
+        <summary><a href="Demihuman.html">Demihuman</a> Species:</summary>
+        <ul>
+	        <ul>
+	          <li><a href="Catfolk.html">Catfolk | Felistria:</a> Cat (Common) -- Avg Height: - Male: 5'5" (165 cm) - Female: 5'2" (157 cm) - Lifespan: 115yrs</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Dogfolk.html">Dogfolk | Canisina:</a> Dog (Common) -- Avg Height: - Male: 5'6" (168 cm) - Female: 5'3" (160 cm) - Lifespan: 95yrs</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Wolf-folk.html">Wolf-folk | Canisine:</a> Wolf (Common) -- Avg Height: - Male: 6'0" (183 cm) - Female: 5'7" (170 cm) - Lifespan: 90yrs</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Bunnyfolk.html">Bunnyfolk | Oytolagius:</a> Bunny (Common) -- Avg Height: - Male: 5'9" (175 cm) - Female: 5'5" (165 cm) - Lifespan: 125yrs</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Raccoonfolk.html">Raccoonfolk | Procyon-lotorna:</a> Racoon (Common) -- Avg Height: - Male: 5'4" (163 cm) - Female: 5'0" (152 cm) - Lifespan: 100yrs</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Mousefolk.html">Mousefolk | Musculus:</a> Mouse (Common) -- Avg Height: - Male: 4'4" (132 cm) - Female: 4'2" (127 cm) - Lifespan: 150yrs</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Sheepfolk.html">Sheepfolk | Ovisal:</a> Sheep (Common) -- Avg Height: - Male: 5'0" (152 cm) - Female: 4'8" (142 cm) - Lifespan: 105yrs</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Goatfolk.html">Goatfolk | Capratis:</a> Goat (Common) -- Avg Height: - Male: 5'2" (157 cm) - Female: 5'0" (152 cm) - Lifespan: 105yrs</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Cowfolk.html">Cowfolk | Taurus:</a> Cow (Common) -- Avg Height: - Male: 6'0" (183 cm) - Female: 5'7" (170 cm) - Lifespan: 120yrs</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Kitsune.html">Kitsune | Vulpestro:</a> Fox (Common) -- Avg Height: - Female: 5'4" (163 cm) - Lifespan: 1250yrs</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Centaur.html">Centaur | Equisfera:</a> Horse (Common) -- Avg Height: - Male: 7'4" (224 cm) - Female: 7'2" (218 cm) - Lifespan: 180yrs</li>
+	        </ul>
+	      </details>
+      <details>
+        <summary><a href="Elyrian.html">Elyrian</a> Species:</summary>
+        <ul>
+	        <ul>
+		      <details>
+		        <summary><a href="Elves.html">Elves:</a></summary>
+		        <ul>
+		          <li><a href="High Elves.html">High Elves:</a> (Elyrian, Common) -- Avg Height: - Male: 5'8" (173 cm) - Female: 5'4" (163 cm) - Lifespan: 1200yrs</li>
+		        </ul>
+		        <ul>
+		          <li><a href="Low Elves.html">Low Elves:</a> (Elyrian, Common) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'3" (160 cm) - Lifespan: 500yrs</li>
+		        </ul>
+		        <ul>
+		          <li><a href="Dark Elves.html">Dark Elves:</a> (Elyrian, Common) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'3" (160 cm) - Lifespan: 500yrs</li>
+		        </ul>
+		        <ul>
+		          <li><a href="Wood Elves.html">Wood Elves:</a> (Elyrian, Common, Beastrian) -- Avg Height: - Male: 5'5" (165 cm) - Female: 5'2" (157 cm) - Lifespan: 850yrs</li>
+		        </ul>
+		      </details>
+			</ul>
+	        <ul>
+	          <li><a href="Pixie.html">Pixie:</a> (Elyrian, Common) -- Avg Height: - Male: 6" (15 cm) - Female: 6" (15 cm) - Lifespan: 350yrs</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Fairy.html">Fairy:</a> (Elyrian) -- Avg Height: - Male: 10" (25 cm) - Female: 10" (25 cm) - Lifespan: 650yrs</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Dryads.html">Dryads:</a> (Elyrian, Beastrian, Common) -- Avg Height: - Female: 5'6" (168 cm) - Lifespan: 5000yrs</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Petalfae.html">Petalfae:</a> (Elyrian) -- Avg Height: - Female: 5'4" (163 cm) - Lifespan: 750yrs</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Nymph.html">Nymph:</a> (Elyrian) -- Avg Height: - Female: 5'5" (165 cm) - Lifespan: Unknown</li>
+	        </ul>
+	      </details>
+      <details>
+        <summary><a href="Monsterkin.html">Monsterkin</a> Species:</summary>
+        <ul>
+	        <ul>
+		      <details>
+		        <summary><a href="Dragonkin.html">Dragonkin | Dracodylidae:</a></summary>
+		        <ul>
+		          <li><a href="Dragon-Newt.html">Dragon-Newt:</a> (Āëdiríth, Common) -- Avg Height: - Male: 6'10" (208 cm) - Female: 7'2" (218 cm) - Lifespan: 5000yrs</li>
+		        </ul>
+		        <ul>
+		          <li><a href="Dragonette.html">Dragonette:</a> (Āëdiríth, Common) -- Avg Height: - Male: 5'6" (168 cm) - Female: 5'8" (173 cm) - Lifespan: 3750yrs</li>
+		        </ul>
+		        <ul>
+		          <li><a href="Dragonborn.html">Dragonborn:</a> (Āëdiríth, Common) -- Avg Height: - Male: 6'2" (188 cm) - Female: 6'4" (193 cm) - Lifespan: 2500yrs</li>
+		        </ul>
+		        <ul>
+		          <li><a href="Dragonfawn.html">Dragonfawn:</a> (Āëdiríth, Common) -- Avg Height: - Male: 6'0" (183 cm) - Female: 6'2" (188 cm) - Lifespan: 1250yrs</li>
+		        </ul>
+		        <ul>
+		          <li><a href="Dragonling.html">Dragonling:</a> (Āëdiríth, Common) -- Avg Height: - Male: 5'10" (178 cm) - Female: 6'0" (183 cm) - Lifespan: 750yrs</li>
+		        </ul>
+		      </details>
+	        </ul>
+	        <ul>
+		      <details>
+		        <summary><a href="Vampire.html">Vampire:</a></summary>
+		        <ul>
+		          <li><a href="Silvers.html">Silvers:</a> (Common, Demon) -- Avg Height: - Male: 5'6" (168 cm) - Female: 5'4" (163 cm) - Lifespan: Does Not Age</li>
+		        </ul>
+		        <ul>
+		          <li><a href="Crimsons.html">Crimsons:</a> (Common, Demon) -- Avg Height: - Male: 5'8" (173 cm) - Female: 5'6" (168 cm) - Lifespan: Does Not Age</li>
+		        </ul>
+		        <ul>
+		          <li><a href="Allureans.html">Allureans:</a> (Common, Demon) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'5" (165 cm) - Lifespan: Does Not Age</li>
+		        </ul>
+		        <ul>
+		          <li><a href="Solarins.html">Solarins | Aurans:</a> (Common, Demon) -- Avg Height: - Male: 5'6" (168 cm) - Female: 5'4" (163 cm) - Lifespan: Does Not Age</li>
+		        </ul>
+		        <ul>
+		          <li><a href="Thralls.html">Thralls:</a> (Demon) -- Avg Height: - Male: 5'4" (163 cm) - Female: 5'4" (157 cm) - Lifespan: 150yrs</li>
+		        </ul>
+		      </details>
+	        </ul>
+	        <ul>
+		      <details>
+		        <summary><a href="Goblina.html">Goblina:</a></summary>
+		        <ul>
+		          <li><a href="Forest Goblina.html">Forest Goblina:</a> (Gobish, Common) -- Avg Height: - Male: 4'5" (135 cm) - Female: 4'3" (130 cm) - Lifespan: 350yrs</li>
+		        </ul>
+		        <ul>
+		          <li><a href="Desert Goblina.html">Desert Goblina:</a> (Gobish, Common) -- Avg Height: - Male: 4'5" (135 cm) - Female: 4'3" (130 cm) - Lifespan: 350yrs</li>
+		        </ul>
+		        <ul>
+		          <li><a href="Mountain Goblina.html">Mountain Goblina:</a> (Gobish, Common) -- Avg Height: - Male: 4'5" (135 cm) - Female: 4'3" (130 cm) - Lifespan: 350yrs</li>
+		        </ul>
+		      </details>
+	        </ul>
+	        <ul>
+		      <details>
+		        <summary><a href="Alraune.html">Alraune:</a></summary>
+		        <ul>
+		          <li><a href="Sapsuri.html">Sapsuri:</a> (Elyrian, Common) -- Avg Height: - Female: 6'4" (193 cm) - Lifespan: 750yrs </li>
+		        </ul>
+		        <ul>
+		          <li><a href="Venofae-Ivy.html">Venofae-Ivy:</a> (Demon, Common) -- Avg Height: - Female: 6'4" (193 cm) - Lifespan: 750yrs</li>
+		        </ul>
+		      </details>
+	        </ul>
+	        <ul>
+	          <li><a href="Zombiefolk.html">Zombiefolk:</a> (Common + Host Species Languages) - Lifespan: Does Not Age</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Lizardmen.html">Lizardmen:</a> (Akesh, Common)</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Arachne.html">Arachne:</a></li>
+	        </ul>
+	        <ul>
+	          <li><a href="Lamia.html">Lamia:</a></li>
+	        </ul>
+	        <ul>
+	          <li><a href="Oni.html">Oni:</a> (Orcish, Gobish, Common)</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Shriekyn.html">Shriekyn:</a> (Ithrak, Common) - Bat</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Slimefolk.html">Slimefolk:</a> Lifespan: 20-1050yrs</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Orc.html">Orc:</a> (Orcish, Gobish, Common)</li>
+	        </ul>
+	        <ul>
+	          <li><a href="No Info Yet.html">Beefolk (Not Created Yet):</a></li>
+	        </ul>
+	        <ul>
+	          <li><a href="No Info Yet.html">Mantisfolk (Not Created Yet):</a></li>
+	        </ul>
+	      </details>
+      <details>
+        <summary><a href="Coralithal.html">Coralithal</a> Species:</summary>
+        <ul>
+	        <ul>
+	          <li><a href="Merfolk.html">Merfolk:</a> (Common) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'3" (160 cm)</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Coralfolk.html">Coralfolk:</a></li>
+	        </ul>
+	        <ul>
+	          <li><a href="Nautilites.html">Nautilites:</a> -- Avg Height: - Male: 7'5" (226 cm) - Lifespan: 45yrs</li>
+	        </ul>
+	        <ul>
+	          <li><a href="Nythera.html">Nythera | Glowlings:</a></li>
+	        </ul>
+	      </details>
+      <details>
+        <summary><a href="Demon.html">Demon</a> Species:</summary>
+        <ul>
+	        <ul>
+		      <details>
+		        <summary><a href="Beastkin.html">Beastkin:</a></summary>
+		        <ul>
+		          <li><a href="Neko.html">Neko:</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Dogkin.html">Dogkin:</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Wolfkin.html">Wolfkin:</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Bunkin.html">Bunkin:</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Sheepkin.html">Sheepkin:</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Bearkin.html">Bearkin:</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Raccoonkin.html">Raccoonkin:</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Ratkin.html">Ratkin:</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Mousekin.html">Mousekin:</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Deerkin.html">Deerkin:</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="Fox-kin.html">Fox-kin:</a></li>
+		        </ul>
+		      </details>
+			  </ul>
+	        <ul>
+	          <li><a href="Cubi.html">Cubi:</a></li>
+	        </ul>
+	        <ul>
+	          <li><a href="Dreamers.html">Dreamers:</a></li>
+	        </ul>
+	        <ul>
+	          <li><a href="Nox.html">Nox:</a> (Nox'kari, Common, Demon) -- Male: 5'7" (170 cm) - Female: 5'5" (165 cm) - Lifespan: 750yrs</li>
+	        </ul>
+	      </details>
+	 <details>
+        <summary><a href="Subterran.html">Subterran</a> Species:</summary>
+        <ul>
+	        <ul>
+		      <details>
+		        <summary><a href="No Info Yet.html">Breckin (Not Created Yet):</a></summary>
+		        <ul>
+		          <li><a href="No Info Yet.html">Murkin (Not Created Yet):</a></li>
+		        </ul>
+		        <ul>
+		          <li><a href="No Info Yet.html">Basaltan (Not Created Yet):</a></li>
+		        </ul>
+			 </details>
+			 </ul>
+	        <ul>
+		      <li><a href="Antraxi.html">Antraxi:</a></li>
+		    </ul>
+	        <ul>
+		      <li><a href="Snailfolk.html">Snailfolk:</a></li>
+		    </ul>
+	        <ul>
+		      <li><a href="Thryl'ka.html">Thryl'ka:</a></li>
+		    </ul>
+	        <ul>
+		      <li><a href="No Info Yet.html">Molgari (Not Created Yet):</a></li>
+		    </ul>
+		</details>
+      <details>
+        <summary><a href="Ethereal.html">Ethereal</a> Species:</summary>
+        <ul>
+	        <ul>
+	          <li><a href="Wisps.html">Wisps:</a></li>
+	        </ul>
+	        <ul>
+	          <li><a href="Wraiths.html">Wraiths:</a></li>
+	        </ul>
+	        <ul>
+	          <li><a href="Phantoms.html">Phantoms:</a></li>
+	        </ul>
+	        <ul>
+	          <li><a href="Specters.html">Specters:</a></li>
+	        </ul>
+	        <ul>
+	          <li><a href="Yuki-Onna.html">Yuki-Onna:</a></li>
+	        </ul>
+	      </details>
+      <details>
+        <summary><a href="Unaffiliated Species.html">Unaffiliated</a> Species:</summary>
+        <ul>
+	        <ul>
+	          <li><a href="Harpy.html">Harpy:</a></li>
+	        </ul>
+	        <ul>
+	          <li><a href="Demon Royals.html">Demon Royals:</a></li>
+	        </ul>
+	        <ul>
+	          <li><a href="Otherworlders.html">Otherworlders:</a></li>
+	        </ul>
+	      </details>
+		</ul>
+    </ul>
+  </details>
+
+
+
+
+  
+
+h
+
+h
+
+h
