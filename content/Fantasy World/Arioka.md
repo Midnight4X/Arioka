@@ -78,8 +78,8 @@ tags:
 	         <li><a href="Yurihism.html">Yurihism</a></li>
 		       </ul>
 		   </details>
-        <li><a href="Adventurer Rank.html">Adventurer Rank</a></li>
         <li><a href="Classes.html">Classes</a></li>
+        <li><a href="Adventurer Rank.html">Adventurer Rank</a></li>
         <li><a href="Settlement Population Classifications.html">Settlement Population Classifications</a></li>
 				 </details>
 		        </ul>
