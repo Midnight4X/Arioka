@@ -23,23 +23,10 @@ tags:
 			        <summary><a href="Seven Venerators.html">Seven Venerators</a></summary>
 			        <ul>
 			          <li><a href="Temperance.html">Temperance</a></li>
-			        </ul>
-			        <ul>
 			          <li><a href="Charity.html">Charity</a></li>
-			        </ul>
-			        <ul>
-			          <li><a href="Humility.html">Humility</a></li>
-			        </ul>
-			        <ul>
 			          <li><a href="Diligence.html">Diligence</a></li>
-			        </ul>
-			        <ul>
 			          <li><a href="Chasity.html">Chasity</a></li>
-			        </ul>
-			        <ul>
 			          <li><a href="Patience.html">Patience</a></li>
-			        </ul>
-			        <ul>
 			          <li><a href="Kindness.html">Kindness</a></li>
 			        </ul>
 			    </details>
@@ -52,23 +39,11 @@ tags:
 			        <summary><a href="Seven Apostates.html">Seven Apostates</a></summary>
 			        <ul>
 			          <li><a href="Pride.html">Pride</a></li>
-			        </ul>
-			        <ul>
 			          <li><a href="Greed.html">Greed</a></li>
-			        </ul>
-			        <ul>
 			          <li><a href="Lust.html">Lust</a></li>
-			        </ul>
-			        <ul>
 			          <li><a href="Sloth.html">Sloth</a></li>
-			        </ul>
-			        <ul>
 			          <li><a href="Wrath.html">Wrath</a></li>
-			        </ul>
-			        <ul>
 			          <li><a href="Envy.html">Envy</a></li>
-			        </ul>
-			        <ul>
 			          <li><a href="Gluttony.html">Gluttony</a></li>
 			        </ul>
 			    </details>
@@ -81,25 +56,12 @@ tags:
 			        <summary><a href="Seven Abstractions.html">Seven Abstractions</a></summary>
 			        <ul>
 			          <li><a href="Hope.html">Hope</a></li>
-			        </ul>
-			        <ul>
 			          <li><a href="Chaos.html">Chaos</a></li>
-			        </ul>
-			        <ul>
 			          <li><a href="War.html">War</a></li>
-			        </ul>
-			        <ul>
 			          <li><a href="Curiosity.html">Curiosity</a></li>
-			        </ul>
-			        <ul>
 			          <li><a href="Silence.html">Silence</a></li>
-			        </ul>
-			        <ul>
 			          <li><a href="Solitude.html">Solitude</a></li>
-			        </ul>
-			        <ul>
 			          <li><a href="Wisdom.html">Wisdom</a></li>
-			        </ul>
 			        </details>
 			        </ul>
 			    </details>
@@ -109,28 +71,15 @@ tags:
         <ul>
 		       <ul>
 		      <li><a href="Order of Balance.html">Order of Balance</a></li>
-		       </ul>
-		       <ul>
 		     <li><a href="Church of Light.html">Church of Light</a></li>
-		       </ul>
-		       <ul>
 		     <li><a href="Sect of Dark.html">Sect of Dark</a></li>
-		       </ul>
-		       <ul>
 	         <li><a href="Coven of Death.html">Coven of Death</a></li>
-		       </ul>
-		       <ul>
 	         <li><a href="Yurihism.html">Yurihism</a></li>
 		       </ul>
 		   </details>
         <li><a href="Classes.html">Classes</a></li>
-        <ul>
-        </ul>
         <li><a href="Adventurer Rank.html">Adventurer Rank</a></li>
-        <ul>
-        </ul>
         <li><a href="Settlement Population Classifications.html">Settlement Population Classifications</a></li>
-        <ul>
 				 </details>
 		        </ul>
 		      </details>
@@ -151,11 +100,7 @@ tags:
         <summary><a href="Human.html">Human</a> Species:</summary>
         <ul>
 	          <li><a href="Human.html">Human:</a> (Common) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'3" (160 cm) - Lifespan: 100yrs</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Dwarf.html">Dwarf:</a> (Common) -- Avg Height: - Male: 4'4" (132 cm) - Female: 4'2" (127 cm) - Lifespan: 150yrs</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Gnome.html">Gnome:</a> (Common) -- Avg Height - Male:  3'4" (102 cm) - Female: 3'2" (96 cm) - Lifespan: 165yrs</li>
 	        </ul>
 	      </details>
@@ -164,35 +109,15 @@ tags:
         <ul>
 	        <ul>
 	          <li><a href="Catfolk.html">Catfolk | Felistria:</a> Cat (Common) -- Avg Height: - Male: 5'5" (165 cm) - Female: 5'2" (157 cm) - Lifespan: 115yrs</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Dogfolk.html">Dogfolk | Canisina:</a> Dog (Common) -- Avg Height: - Male: 5'6" (168 cm) - Female: 5'3" (160 cm) - Lifespan: 95yrs</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Wolf-folk.html">Wolf-folk | Canisine:</a> Wolf (Common) -- Avg Height: - Male: 6'0" (183 cm) - Female: 5'7" (170 cm) - Lifespan: 90yrs</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Bunnyfolk.html">Bunnyfolk | Oytolagius:</a> Bunny (Common) -- Avg Height: - Male: 5'9" (175 cm) - Female: 5'5" (165 cm) - Lifespan: 125yrs</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Raccoonfolk.html">Raccoonfolk | Procyon-lotorna:</a> Racoon (Common) -- Avg Height: - Male: 5'4" (163 cm) - Female: 5'0" (152 cm) - Lifespan: 100yrs</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Mousefolk.html">Mousefolk | Musculus:</a> Mouse (Common) -- Avg Height: - Male: 4'4" (132 cm) - Female: 4'2" (127 cm) - Lifespan: 150yrs</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Sheepfolk.html">Sheepfolk | Ovisal:</a> Sheep (Common) -- Avg Height: - Male: 5'0" (152 cm) - Female: 4'8" (142 cm) - Lifespan: 105yrs</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Goatfolk.html">Goatfolk | Capratis:</a> Goat (Common) -- Avg Height: - Male: 5'2" (157 cm) - Female: 5'0" (152 cm) - Lifespan: 105yrs</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Cowfolk.html">Cowfolk | Taurus:</a> Cow (Common) -- Avg Height: - Male: 6'0" (183 cm) - Female: 5'7" (170 cm) - Lifespan: 120yrs</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Kitsune.html">Kitsune | Vulpestro:</a> Fox (Common) -- Avg Height: - Female: 5'4" (163 cm) - Lifespan: 1250yrs</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Centaur.html">Centaur | Equisfera:</a> Horse (Common) -- Avg Height: - Male: 7'4" (224 cm) - Female: 7'2" (218 cm) - Lifespan: 180yrs</li>
 	        </ul>
 	      </details>
@@ -204,31 +129,17 @@ tags:
 		        <summary><a href="Elves.html">Elves:</a></summary>
 		        <ul>
 		          <li><a href="High Elves.html">High Elves:</a> (Elyrian, Common) -- Avg Height: - Male: 5'8" (173 cm) - Female: 5'4" (163 cm) - Lifespan: 1200yrs</li>
-		        </ul>
-		        <ul>
 		          <li><a href="Low Elves.html">Low Elves:</a> (Elyrian, Common) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'3" (160 cm) - Lifespan: 500yrs</li>
-		        </ul>
-		        <ul>
 		          <li><a href="Dark Elves.html">Dark Elves:</a> (Elyrian, Common) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'3" (160 cm) - Lifespan: 500yrs</li>
-		        </ul>
-		        <ul>
 		          <li><a href="Wood Elves.html">Wood Elves:</a> (Elyrian, Common, Beastrian) -- Avg Height: - Male: 5'5" (165 cm) - Female: 5'2" (157 cm) - Lifespan: 850yrs</li>
 		        </ul>
 		      </details>
 			</ul>
 	        <ul>
 	          <li><a href="Pixie.html">Pixie:</a> (Elyrian, Common) -- Avg Height: - Male: 6" (15 cm) - Female: 6" (15 cm) - Lifespan: 350yrs</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Fairy.html">Fairy:</a> (Elyrian) -- Avg Height: - Male: 10" (25 cm) - Female: 10" (25 cm) - Lifespan: 650yrs</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Dryads.html">Dryads:</a> (Elyrian, Beastrian, Common) -- Avg Height: - Female: 5'6" (168 cm) - Lifespan: 5000yrs</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Petalfae.html">Petalfae:</a> (Elyrian) -- Avg Height: - Female: 5'4" (163 cm) - Lifespan: 750yrs</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Nymph.html">Nymph:</a> (Elyrian) -- Avg Height: - Female: 5'5" (165 cm) - Lifespan: Unknown</li>
 	        </ul>
 	      </details>
@@ -240,17 +151,9 @@ tags:
 		        <summary><a href="Dragonkin.html">Dragonkin | Dracodylidae:</a></summary>
 		        <ul>
 		          <li><a href="Dragon-Newt.html">Dragon-Newt:</a> (Āëdiríth, Common) -- Avg Height: - Male: 6'10" (208 cm) - Female: 7'2" (218 cm) - Lifespan: 5000yrs</li>
-		        </ul>
-		        <ul>
 		          <li><a href="Dragonette.html">Dragonette:</a> (Āëdiríth, Common) -- Avg Height: - Male: 5'6" (168 cm) - Female: 5'8" (173 cm) - Lifespan: 3750yrs</li>
-		        </ul>
-		        <ul>
 		          <li><a href="Dragonborn.html">Dragonborn:</a> (Āëdiríth, Common) -- Avg Height: - Male: 6'2" (188 cm) - Female: 6'4" (193 cm) - Lifespan: 2500yrs</li>
-		        </ul>
-		        <ul>
 		          <li><a href="Dragonfawn.html">Dragonfawn:</a> (Āëdiríth, Common) -- Avg Height: - Male: 6'0" (183 cm) - Female: 6'2" (188 cm) - Lifespan: 1250yrs</li>
-		        </ul>
-		        <ul>
 		          <li><a href="Dragonling.html">Dragonling:</a> (Āëdiríth, Common) -- Avg Height: - Male: 5'10" (178 cm) - Female: 6'0" (183 cm) - Lifespan: 750yrs</li>
 		        </ul>
 		      </details>
@@ -260,17 +163,9 @@ tags:
 		        <summary><a href="Vampire.html">Vampire:</a></summary>
 		        <ul>
 		          <li><a href="Silvers.html">Silvers:</a> (Common, Demon) -- Avg Height: - Male: 5'6" (168 cm) - Female: 5'4" (163 cm) - Lifespan: Does Not Age</li>
-		        </ul>
-		        <ul>
 		          <li><a href="Crimsons.html">Crimsons:</a> (Common, Demon) -- Avg Height: - Male: 5'8" (173 cm) - Female: 5'6" (168 cm) - Lifespan: Does Not Age</li>
-		        </ul>
-		        <ul>
 		          <li><a href="Allureans.html">Allureans:</a> (Common, Demon) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'5" (165 cm) - Lifespan: Does Not Age</li>
-		        </ul>
-		        <ul>
 		          <li><a href="Solarins.html">Solarins | Aurans:</a> (Common, Demon) -- Avg Height: - Male: 5'6" (168 cm) - Female: 5'4" (163 cm) - Lifespan: Does Not Age</li>
-		        </ul>
-		        <ul>
 		          <li><a href="Thralls.html">Thralls:</a> (Demon) -- Avg Height: - Male: 5'4" (163 cm) - Female: 5'4" (157 cm) - Lifespan: 150yrs</li>
 		        </ul>
 		      </details>
@@ -280,11 +175,7 @@ tags:
 		        <summary><a href="Goblina.html">Goblina:</a></summary>
 		        <ul>
 		          <li><a href="Forest Goblina.html">Forest Goblina:</a> (Gobish, Common) -- Avg Height: - Male: 4'5" (135 cm) - Female: 4'3" (130 cm) - Lifespan: 350yrs</li>
-		        </ul>
-		        <ul>
 		          <li><a href="Desert Goblina.html">Desert Goblina:</a> (Gobish, Common) -- Avg Height: - Male: 4'5" (135 cm) - Female: 4'3" (130 cm) - Lifespan: 350yrs</li>
-		        </ul>
-		        <ul>
 		          <li><a href="Mountain Goblina.html">Mountain Goblina:</a> (Gobish, Common) -- Avg Height: - Male: 4'5" (135 cm) - Female: 4'3" (130 cm) - Lifespan: 350yrs</li>
 		        </ul>
 		      </details>
@@ -294,40 +185,20 @@ tags:
 		        <summary><a href="Alraune.html">Alraune:</a></summary>
 		        <ul>
 		          <li><a href="Sapsuri.html">Sapsuri:</a> (Elyrian, Common) -- Avg Height: - Female: 6'4" (193 cm) - Lifespan: 750yrs </li>
-		        </ul>
-		        <ul>
 		          <li><a href="Venofae-Ivy.html">Venofae-Ivy:</a> (Demon, Common) -- Avg Height: - Female: 6'4" (193 cm) - Lifespan: 750yrs</li>
 		        </ul>
 		      </details>
 	        </ul>
 	        <ul>
 	          <li><a href="Zombiefolk.html">Zombiefolk:</a> (Common + Host Species Languages) - Lifespan: Does Not Age</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Lizardmen.html">Lizardmen:</a> (Akesh, Common)</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Arachne.html">Arachne:</a></li>
-	        </ul>
-	        <ul>
 	          <li><a href="Lamia.html">Lamia:</a></li>
-	        </ul>
-	        <ul>
 	          <li><a href="Oni.html">Oni:</a> (Orcish, Gobish, Common)</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Shriekyn.html">Shriekyn:</a> (Ithrak, Common) - Bat</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Slimefolk.html">Slimefolk:</a> Lifespan: 20-1050yrs</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Orc.html">Orc:</a> (Orcish, Gobish, Common)</li>
-	        </ul>
-	        <ul>
 	          <li><a href="No Info Yet.html">Beefolk (Not Created Yet):</a></li>
-	        </ul>
-	        <ul>
 	          <li><a href="No Info Yet.html">Mantisfolk (Not Created Yet):</a></li>
 	        </ul>
 	      </details>
@@ -336,14 +207,8 @@ tags:
         <ul>
 	        <ul>
 	          <li><a href="Merfolk.html">Merfolk:</a> (Common) -- Avg Height: - Male: 5'7" (170 cm) - Female: 5'3" (160 cm)</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Coralfolk.html">Coralfolk:</a></li>
-	        </ul>
-	        <ul>
 	          <li><a href="Nautilites.html">Nautilites:</a> -- Avg Height: - Male: 7'5" (226 cm) - Lifespan: 45yrs</li>
-	        </ul>
-	        <ul>
 	          <li><a href="Nythera.html">Nythera | Glowlings:</a></li>
 	        </ul>
 	      </details>
@@ -355,46 +220,22 @@ tags:
 		        <summary><a href="Beastkin.html">Beastkin:</a></summary>
 		        <ul>
 		          <li><a href="Neko.html">Neko:</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Dogkin.html">Dogkin:</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Wolfkin.html">Wolfkin:</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Bunkin.html">Bunkin:</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Sheepkin.html">Sheepkin:</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Bearkin.html">Bearkin:</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Raccoonkin.html">Raccoonkin:</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Ratkin.html">Ratkin:</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Mousekin.html">Mousekin:</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Deerkin.html">Deerkin:</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Fox-kin.html">Fox-kin:</a></li>
 		        </ul>
 		      </details>
 			  </ul>
 	        <ul>
 	          <li><a href="Cubi.html">Cubi:</a></li>
-	        </ul>
-	        <ul>
 	          <li><a href="Dreamers.html">Dreamers:</a></li>
-	        </ul>
-	        <ul>
 	          <li><a href="Nox.html">Nox:</a> (Nox'kari, Common, Demon) -- Male: 5'7" (170 cm) - Female: 5'5" (165 cm) - Lifespan: 750yrs</li>
 	        </ul>
 	      </details>
@@ -406,22 +247,14 @@ tags:
 		        <summary><a href="No Info Yet.html">Breckin (Not Created Yet):</a></summary>
 		        <ul>
 		          <li><a href="No Info Yet.html">Murkin (Not Created Yet):</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="No Info Yet.html">Basaltan (Not Created Yet):</a></li>
 		        </ul>
 			 </details>
 			 </ul>
 	        <ul>
 		      <li><a href="Antraxi.html">Antraxi:</a></li>
-		    </ul>
-	        <ul>
 		      <li><a href="Snailfolk.html">Snailfolk:</a></li>
-		    </ul>
-	        <ul>
 		      <li><a href="Thryl'ka.html">Thryl'ka:</a></li>
-		    </ul>
-	        <ul>
 		      <li><a href="No Info Yet.html">Molgari (Not Created Yet):</a></li>
 		    </ul>
 		</details>
@@ -430,17 +263,9 @@ tags:
         <ul>
 	        <ul>
 	          <li><a href="Wisps.html">Wisps:</a></li>
-	        </ul>
-	        <ul>
 	          <li><a href="Wraiths.html">Wraiths:</a></li>
-	        </ul>
-	        <ul>
 	          <li><a href="Phantoms.html">Phantoms:</a></li>
-	        </ul>
-	        <ul>
 	          <li><a href="Specters.html">Specters:</a></li>
-	        </ul>
-	        <ul>
 	          <li><a href="Yuki-Onna.html">Yuki-Onna:</a></li>
 	        </ul>
 	      </details>
@@ -449,11 +274,7 @@ tags:
         <ul>
 	        <ul>
 	          <li><a href="Harpy.html">Harpy:</a></li>
-	        </ul>
-	        <ul>
 	          <li><a href="Demon Royals.html">Demon Royals:</a></li>
-	        </ul>
-	        <ul>
 	          <li><a href="Otherworlders.html">Otherworlders:</a></li>
 	        </ul>
 	      </details>
@@ -482,45 +303,13 @@ tags:
         <summary><a href="Realm of Races.html">Realm of Races</a></summary>
         <ul>
 		      <details>
-		        <summary><a href="Uria.html">Uria</a></summary>
-		        <ul>
-		          <li><a href="Drakensveld.html">Drakensveld</a></li>
-		        </ul>
-		    </details>
-		    </ul>
-		    <ul>
-		      <details>
 		        <summary><a href="Aeloria.html">Aeloria</a></summary>
 		        <ul>
 		          <li><a href="Kingdom of Sulmanite.html">Kingdom of Sulmanite</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Varka D'luive.html">Varka D'luive</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Varnisse.html">Varnisse</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Baelrath Pyre.html">Baelrath Pyre</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Infernum.html">Infernum</a></li>
-		        </ul>
-		    </details>
-		    </ul>
-		    <ul>
-		      <details>
-		        <summary><a href="Vardheim.html">Uria</a></summary>
-		        <ul>
-		          <li><a href=".html"></a></li>
-		        </ul>
-		    </details>
-		    </ul>
-		    <ul>
-		      <details>
-		        <summary><a href="Yurei.html">Yurei</a></summary>
-		        <ul>
-		          <li><a href="Cursedlands.html">Cursedlands</a></li>
 		        </ul>
 		    </details>
 		    </ul>
@@ -529,33 +318,39 @@ tags:
 		        <summary><a href="Lustria.html">Lustria</a></summary>
 		        <ul>
 		          <li><a href="Allurea.html">Allurea</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Aurelion.html">Aurelion</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Ikeshmire.html">Ikeshmire</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Skaldarune.html">Skaldarune</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Virelian.html">Virelian</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Var-Krendell.html">Var-Krendell</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Kragmourn.html">Kragmourn</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Kingdom of Highmark.html">Kingdom of Highmark</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Dawnriver Kingdom.html">Dawnriver Kingdom</a></li>
-		        </ul>
-		        <ul>
 		          <li><a href="Kingdom of Bryndor.html">Kingdom of Bryndor</a></li>
+		        </ul>
+		    </details>
+		    </ul>
+		    <ul>
+		      <details>
+		        <summary><a href="Uria.html">Uria</a></summary>
+		        <ul>
+		          <li><a href="Drakensveld.html">Drakensveld</a></li>
+		        </ul>
+		    </details>
+		    </ul>
+		    <ul>
+		      <details>
+		        <summary><a href="Vardheim.html">Vardheim</a></summary>
+		        <ul>
+		          <li><a href=".html"></a></li>
+		        </ul>
+		    </details>
+			</ul>
+			<ul>
+		      <details>
+		        <summary><a href="Yurei.html">Yurei</a></summary>
+		        <ul>
+		          <li><a href="Cursedlands.html">Cursedlands</a></li>
 		        </ul>
 		    </details>
 		</details>
@@ -563,9 +358,9 @@ tags:
         <summary><a href="Underworld.html">Underworld</a></summary>
         <ul>
 		      <details>
-		        <summary><a href="Undergrowth.html">Undergrowth</a></summary>
+		        <summary><a href="Abyss.html">Abyss</a></summary>
 		        <ul>
-			        <li><a href=".html"></a></li>
+			     <li><a href="Nox Fortuna.html">Nox Fortuna</a></li>
 			       </ul>
 			</details>
 			</ul>
@@ -579,9 +374,9 @@ tags:
 			</ul>
 			<ul>
 		      <details>
-		        <summary><a href="Abyss.html">Abyss</a></summary>
+		        <summary><a href="Undergrowth.html">Undergrowth</a></summary>
 		        <ul>
-			     <li><a href="Nox Fortuna.html">Nox Fortuna</a></li>
+			        <li><a href=".html"></a></li>
 			       </ul>
 			</details>
 		</details>
@@ -589,7 +384,7 @@ tags:
         <summary><a href="The Deep.html">The Deep</a></summary>
         <ul>
 		      <details>
-		        <summary><a href="Undergrowth.html"></a></summary>
+		        <summary><a href=".html"></a></summary>
 		        <ul>
 			        <li><a href=".html"></a></li>
 			       </ul>
@@ -617,10 +412,10 @@ tags:
   <summary><a href="Forsaken Lands.html">Forsaken Lands</a></summary>
   <ul>
     <li><a href="Cursedlands.html">Cursedlands</a></li>
-    <li><a href="Infernum.html">Infernum</a></li>
     <li><a href="Deadfrost.html">Deadfrost</a></li>
-    <li><a href="Veil.html">Veil</a></li>
     <li><a href="Everwaste.html">Everwaste</a></li>
+    <li><a href="Infernum.html">Infernum</a></li>
+    <li><a href="Veil.html">Veil</a></li>
   </ul>
 </details>
 
@@ -639,18 +434,6 @@ tags:
   <summary><a href="Alliances.html">Alliances</a></summary>
   <ul>
       <details>
-        <summary><a href="Uria.html">Uria</a></summary>
-        <ul>
-		      <details>
-		        <summary><a href="West Uria Alliance.html">West Uria Alliance</a></summary>
-		        <ul>
-			          <li><a href=".html"></a></li>
-			        </ul>
-			        <ul>
-			    </details>
-			</details
-		</details>
-      <details>
         <summary><a href="Aeloria.html">Aeloria</a></summary>
         <ul>
 		      <details>
@@ -664,6 +447,52 @@ tags:
 		        <summary><a href="Vavakin League.html">Vavakin League</a></summary>
 		        <ul>
 			          <li><a href="Kingdom of Sulmanite.html">Kingdom of Sulmanite</a></li>
+			        </ul>
+			        <ul>
+			    </details>
+			</details
+		</details>
+      <details>
+        <summary><a href="Lustria.html">Lustria</a></summary>
+        <ul>
+		      <details>
+		        <summary><a href="Lurea Hexarch Bloc.html">Lurea Hexarch Bloc</a></summary>
+		        <ul>
+			          <li><a href="Aurelion.html">Aurelion</a></li>
+			          <li><a href="Ikeshmire.html">Ikeshmire</a></li>
+			          <li><a href="Kragmourn.html">Kragmourn</a></li>
+			          <li><a href="Skaldarune.html">Skaldarune</a></li>
+			          <li><a href="Var-Krendell.html">Var-Krendell</a></li>
+			          <li><a href="Virelian.html">Virelian</a></li>
+			        </ul>
+			        <ul>
+			    </details>
+		      <details>
+		        <summary><a href="Lurean Compact.html">Lurean Compact</a></summary>
+		        <ul>
+			          <li><a href="Allurea.html">Allurea</a></li>
+			          <li><a href="Nox Fortuna.html">Nox Fortuna</a></li>
+			        </ul>
+			        <ul>
+			    </details>
+		      <details>
+		        <summary><a href="Tridor Defense Pact.html">Tridor Defense Pact</a></summary>
+		        <ul>
+			          <li><a href="Dawnriver Kingdom.html">Dawnriver Kingdom</a></li>
+			          <li><a href="Kingdom of Bryndor.html">Kingdom of Bryndor</a></li>
+			          <li><a href="Kingdom of Highmark.html">Kingdom of Highmark</a></li>
+			        </ul>
+			        <ul>
+			    </details>
+			</details
+		</details>
+      <details>
+        <summary><a href="Uria.html">Uria</a></summary>
+        <ul>
+		      <details>
+		        <summary><a href="West Uria Alliance.html">West Uria Alliance</a></summary>
+		        <ul>
+			          <li><a href=".html"></a></li>
 			        </ul>
 			        <ul>
 			    </details>
@@ -688,40 +517,6 @@ tags:
 		        <summary><a href=".html"></a></summary>
 		        <ul>
 			          <li><a href=".html"></a></li>
-			        </ul>
-			        <ul>
-			    </details>
-			</details
-		</details>
-      <details>
-        <summary><a href="Lustria.html">Lustria</a></summary>
-        <ul>
-		      <details>
-		        <summary><a href="Lurean Compact.html">Lurean Compact</a></summary>
-		        <ul>
-			          <li><a href="Allurea.html">Allurea</a></li>
-			          <li><a href="Nox Fortuna.html">Nox Fortuna</a></li>
-			        </ul>
-			        <ul>
-			    </details>
-		      <details>
-		        <summary><a href="Lurea Hexarch Bloc.html">Lurea Hexarch Bloc</a></summary>
-		        <ul>
-			          <li><a href="Aurelion.html">Aurelion</a></li>
-			          <li><a href="Ikeshmire.html">Ikeshmire</a></li>
-			          <li><a href="Skaldarune.html">Skaldarune</a></li>
-			          <li><a href="Virelian.html">Virelian</a></li>
-			          <li><a href="Var-Krendell.html">Var-Krendell</a></li>
-			          <li><a href="Kragmourn.html">Kragmourn</a></li>
-			        </ul>
-			        <ul>
-			    </details>
-		      <details>
-		        <summary><a href="Tridor Defense Pact.html">Tridor Defense Pact</a></summary>
-		        <ul>
-			          <li><a href="Kingdom of Highmark.html">Kingdom of Highmark</a></li>
-			          <li><a href="Dawnriver Kingdom.html">Dawnriver Kingdom</a></li>
-			          <li><a href="Kingdom of Bryndor.html">Kingdom of Bryndor</a></li>
 			        </ul>
 			        <ul>
 			    </details>
